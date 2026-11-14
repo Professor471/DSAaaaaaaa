@@ -19,4 +19,20 @@ Named after the sound I make when I see a Hard problem.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Professor471/DSAaaaaaaa/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
