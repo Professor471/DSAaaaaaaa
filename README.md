@@ -22,10 +22,12 @@ Named after the sound I make when I see a Hard problem.
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -34,5 +36,6 @@ Named after the sound I make when I see a Hard problem.
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
