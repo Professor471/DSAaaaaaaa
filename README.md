@@ -9,6 +9,7 @@ Named after the sound I make when I see a Hard problem.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Professor471/DSAaaaaaaa/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Professor471/DSAaaaaaaa/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Professor471/DSAaaaaaaa/tree/master/1929-concatenation-of-array) |
@@ -59,5 +60,6 @@ Named after the sound I make when I see a Hard problem.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Professor471/DSAaaaaaaa/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
