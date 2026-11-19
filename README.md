@@ -52,4 +52,12 @@ Named after the sound I make when I see a Hard problem.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Professor471/DSAaaaaaaa/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Professor471/DSAaaaaaaa/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
