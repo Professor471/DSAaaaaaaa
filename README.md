@@ -24,6 +24,7 @@ Named after the sound I make when I see a Hard problem.
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0409-longest-palindrome) |
@@ -31,6 +32,7 @@ Named after the sound I make when I see a Hard problem.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0409-longest-palindrome) |
@@ -62,4 +64,8 @@ Named after the sound I make when I see a Hard problem.
 | ------- |
 | [0136-single-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Professor471/DSAaaaaaaa/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
