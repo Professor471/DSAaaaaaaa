@@ -71,4 +71,12 @@ Named after the sound I make when I see a Hard problem.
 | ------- |
 | [0217-contains-duplicate](https://github.com/Professor471/DSAaaaaaaa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Professor471/DSAaaaaaaa/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Professor471/DSAaaaaaaa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
