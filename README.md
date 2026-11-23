@@ -34,6 +34,7 @@ Named after the sound I make when I see a Hard problem.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Professor471/DSAaaaaaaa/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,5 +79,6 @@ Named after the sound I make when I see a Hard problem.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/Professor471/DSAaaaaaaa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
