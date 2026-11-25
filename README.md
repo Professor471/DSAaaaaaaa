@@ -9,6 +9,7 @@ Named after the sound I make when I see a Hard problem.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Professor471/DSAaaaaaaa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Professor471/DSAaaaaaaa/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Professor471/DSAaaaaaaa/tree/master/1480-running-sum-of-1d-array) |
@@ -81,4 +82,8 @@ Named after the sound I make when I see a Hard problem.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/Professor471/DSAaaaaaaa/tree/master/0876-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Professor471/DSAaaaaaaa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
