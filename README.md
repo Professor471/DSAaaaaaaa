@@ -5,10 +5,12 @@ Named after the sound I make when I see a Hard problem.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Professor471/DSAaaaaaaa/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Professor471/DSAaaaaaaa/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Professor471/DSAaaaaaaa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Professor471/DSAaaaaaaa/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Professor471/DSAaaaaaaa/tree/master/0217-contains-duplicate) |
