@@ -37,6 +37,7 @@ Named after the sound I make when I see a Hard problem.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Professor471/DSAaaaaaaa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Professor471/DSAaaaaaaa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Professor471/DSAaaaaaaa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Professor471/DSAaaaaaaa/tree/master/0383-ransom-note) |
